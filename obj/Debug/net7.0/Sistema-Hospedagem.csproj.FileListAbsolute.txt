@@ -1,0 +1,15 @@
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\bin\Debug\net7.0\Sistema-Hospedagem.exe
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\bin\Debug\net7.0\Sistema-Hospedagem.deps.json
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\bin\Debug\net7.0\Sistema-Hospedagem.runtimeconfig.json
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\bin\Debug\net7.0\Sistema-Hospedagem.dll
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\bin\Debug\net7.0\Sistema-Hospedagem.pdb
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\Sistema-Hospedagem.csproj.AssemblyReference.cache
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\Sistema-Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\Sistema-Hospedagem.AssemblyInfoInputs.cache
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\Sistema-Hospedagem.AssemblyInfo.cs
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\Sistema-Hospedagem.csproj.CoreCompileInputs.cache
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\Sistema-Hospedagem.dll
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\refint\Sistema-Hospedagem.dll
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\Sistema-Hospedagem.pdb
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\Sistema-Hospedagem.genruntimeconfig.cache
+D:\Projetos\ProjetosDio\Sistema-Hospedagem\obj\Debug\net7.0\ref\Sistema-Hospedagem.dll
